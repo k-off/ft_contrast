@@ -5,7 +5,7 @@ An Algo Project at Codam (42) - ft_contrast
 
 Objetive is to create a thread pool library. It should be used in a program to change contrast of an image. For more information read:
 
-## [SUBJECT](ft_contrast.pdf) - start from page 78
+### [SUBJECT](ft_contrast.pdf) - start from page 78
 
 
 ### Supported file format - pgm(P2):
@@ -13,7 +13,7 @@ Objetive is to create a thread pool library. It should be used in a program to c
 ![Cat](cat.pgm)
 
 
-## Usage
+### Usage
 
 Clone and change directory to project, then:
 
