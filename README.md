@@ -1,5 +1,5 @@
 # ft_contrast - thread pool library
-An Algo Project at Codam (42) - ft_contrast
+An Algo Project at Codam (42) - ft_contrast, cerate a thread pool
 
 ## Project description
 
